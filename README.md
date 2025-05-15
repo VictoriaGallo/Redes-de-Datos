@@ -2,7 +2,9 @@
 trabajos de con packet tracer que hice en redes de datos 
 Diseñar y simular la siguiente red de tal manera que todos los dispositivos de la Subred1 la Subred 2 y la Subred 3 tengan conexión entre si.
 Se selecciona el segmento de direcciones privadas: 100.29.128.0 /17. Diseñarla desperdiciando el mínimo posible de direcciones IPV4.
+
 SubRed 1   10 Host
+
 SubRed 2   550 Host
 SubRed 3    210 Host
 SubRed 4    2   Host
