@@ -1,7 +1,7 @@
 # Red con Enrutamiento Estático
 trabajos de con packet tracer que hice en redes de datos 
 
-##Planteamiento:
+## Planteamiento:
 Simular la red que se muestra en la imagen y que permita conectar los host de la red izquierda (red A) con los host de la red de la derecha  (red B) usando enrutamiento estático
 1.	Usar el siguiente espacio de direcciones:
 Dividir la red 100.150.64.0/18  en dos subredes
